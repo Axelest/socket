@@ -1,0 +1,13 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7",
+    "sni": "^1.0.0",
+    "socket.io": "^2.0.4"
+  }
+}
